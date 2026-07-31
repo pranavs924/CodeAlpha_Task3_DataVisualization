@@ -5,7 +5,7 @@ CodeAlpha_EDA_DataVisualization
 Exploratory Data Analysis (EDA) and Data Visualization using Python, Pandas, Matplotlib, and Seaborn on the Sample Superstore dataset.
 
 
-##Tasks Completed
+Tasks Completed
 
 Task 3: Data Visualization
 - Created bar charts
@@ -14,7 +14,7 @@ Task 3: Data Visualization
 - Created correlation heatmap
 - Visualized business insights using Matplotlib and Seaborn
 
-##Tools Used
+Tools Used
 - Python
 - Pandas
 - Matplotlib
